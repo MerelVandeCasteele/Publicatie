@@ -4,7 +4,7 @@
 
 #header1-1 H1 {
   font-family: 'PT Serif', serif;
-  text-align: left;
+  text-align: center;
 }
 #header1-1 SPAN {
   color: #ffffff;
@@ -20,8 +20,8 @@
   text-align: left;
 }
 #footer1-2 P {
-  text-align: left;
-  color: #000000;
+  color: #475577;
+  text-align: center;
 }
 
 
@@ -38,8 +38,8 @@
   background: #ffffff;
 }
 #footer1-16 P {
-  text-align: left;
-  color: #000000;
+  color: #475577;
+  text-align: center;
 }
 #header2-64 H1 {
   color: #000000;
@@ -77,8 +77,8 @@
   background: #ffffff;
 }
 #footer1-29 P {
-  text-align: left;
-  color: #000000;
+  color: #475577;
+  text-align: center;
 }
 #msg-box4-66 .mbr-header__text {
   color: #000000;
@@ -128,8 +128,8 @@
   background: #ffffff;
 }
 #footer1-42 P {
-  text-align: left;
-  color: #000000;
+  color: #475577;
+  text-align: center;
 }
 #header2-62 H1 {
   font-family: 'PT Serif', serif;
@@ -155,8 +155,8 @@
   background: #ffffff;
 }
 #footer1-55 P {
-  text-align: left;
-  color: #000000;
+  color: #475577;
+  text-align: center;
 }
 #msg-box4-58 .mbr-header__text {
   color: #000000;
@@ -182,8 +182,8 @@
   color: #ffffff;
 }
 #footer1-34 P {
-  text-align: left;
-  color: #000000;
+  color: #475577;
+  text-align: center;
 }
 #menu-53 .mbr-brand__name {
   font-size: 16px;
